@@ -1,0 +1,2 @@
+shp_bdry_votingdistricts/* filter-lfs
+shp_bdry_votingdistricts filter=lfs diff=lfs merge=lfs -text
